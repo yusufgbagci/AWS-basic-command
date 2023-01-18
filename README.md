@@ -2,4 +2,6 @@
 this repo made for learn command fast
 
 For Connection:
-```ssh username@IPAdress´´´
+```linux
+ssh username@IPAdress
+´´´
