@@ -5,7 +5,7 @@
 ```linux
 wget -O awslogs-agent-setup.py https://s3.amazonaws.com/aws-cloudwatch/downloads/latest/awslogs-agent-setup.py 
 sudo python ./awslogs-agent-setup.py --region us-east-1
-
+```
 
 ##Copy and Paste the Access key ID.> via IAM>users>securitycredential
 
@@ -19,4 +19,7 @@ sudo python ./awslogs-agent-setup.py --region us-east-1
 ```
 
 ##View the contents of the error log in the CLI
+
+```linux
 sudo cat /var/log/apache2/error.log
+```
