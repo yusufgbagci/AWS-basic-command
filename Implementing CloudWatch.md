@@ -7,7 +7,7 @@ wget -O awslogs-agent-setup.py https://s3.amazonaws.com/aws-cloudwatch/downloads
 sudo python ./awslogs-agent-setup.py --region us-east-1
 ```
 
-## Copy and Paste the Access key ID.> via IAM>users>securitycredential
+## Copy and Paste the Access key ID via IAM>users>securitycredential
 
 ## Copy and Paste Secret access key
 
